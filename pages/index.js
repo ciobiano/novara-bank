@@ -11,7 +11,6 @@ import { Notifications } from "../components/MainPage/NotificationsSection";
 import { PerfectCard } from "../components/MainPage/PerfectCard";
 import { Reviews } from "../components/MainPage/Reviews";
 
-import SizeObserver from "../utils/size-observer";
 
 function Home() {
   return (
